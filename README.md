@@ -1,2 +1,1 @@
-# understanding-git
-Understanding Git: A Mental Model Presentation
+# Understanding Git: A Mental Model
